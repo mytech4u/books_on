@@ -1,0 +1,23 @@
+body{
+    font-family: 'Lexend Mega', sans-serif
+}
+.header{    height: 90vh;
+    width: 100%;
+  
+    color:white;
+background: linear-gradient(to right, rgba(86, 39, 117, 0.8), rgba(0,0,0,0.5)), url(https://images.pexels.com/photos/6774148/pexels-photo-6774148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+.btn{
+    border-radius: 10rem !important;
+    padding: 1.25rem, 2.24rem !important;
+}
+.Message{
+background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+ .sign_up{
+ background-color: #fbc2eb;
+}
